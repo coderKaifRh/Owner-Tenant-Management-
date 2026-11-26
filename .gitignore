@@ -1,0 +1,32 @@
+﻿# Compiled output
+target/
+out/
+bin/
+
+# Uploads
+uploads/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Local portable JDK
+.jdk/
+
+# Embedded H2 Database
+tak_limited_db*
+*.mv.db
+*.trace.db
+
+# OS files
+.DS_Store
+Thumbs.db
